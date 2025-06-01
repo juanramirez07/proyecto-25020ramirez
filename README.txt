@@ -1,0 +1,1 @@
+El propósito del sitio web es, una pagina de venta de productos de gimnasio. La pagina esta en proceso, ya que no llegue con el tiempo y se me dificultaron algunas cosas de utilizar flex y media queries, no llega a quedar bien al bajar la resolución de la pagina y llega a ser responsive. el formulario, lo copie de internet pero falto el css.
