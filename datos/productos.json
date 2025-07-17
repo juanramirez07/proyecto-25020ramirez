@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Par pesas de 10k",
+    "price": 50.000,
+    "image": "../imagenes/pesas.jpg",
+    "category": "Fuerza"
+  },
+  {
+    "id": 2,
+    "title": "Bandas de resistencia",
+    "price": 35.000,
+    "image": "../imagenes/bandas.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 3,
+    "title": "Barra olímpica 1.5mts",
+    "price": 120.000,
+    "image": "../imagenes/barra.jpg",
+    "category": "Fuerza"
+  },
+  {
+    "id": 4,
+    "title": "Colchoneta deportiva",
+    "price": 40.000,
+    "image": "../imagenes/colchoneta.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 5,
+    "title": "Cinta residencial",
+    "price": 600.000,
+    "image": "../imagenes/Cinta residencial con motor.jpg",
+    "category": "Resistencia"
+  },
+  {
+    "id": 6,
+    "title": "Multigym residencial multiestación",
+    "price": 800.000,
+    "image": "../imagenes/Multigym residencial multiestación.jpg",
+    "category": "Fuerza"
+  },
+  {
+    "id": 7,
+    "title": "Guantes entrenamiento",
+    "price": 40.000,
+    "image": "../imagenes/guantes.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 8,
+    "title": "Caminador elíptico",
+    "price": 400.000,
+    "image": "../imagenes/Caminador elíptico.jpg",
+    "category": "Resistencia"
+  }
+]
